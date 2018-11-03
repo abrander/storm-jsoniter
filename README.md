@@ -26,3 +26,7 @@ func main() {
     db.Close()
 }
 ```
+
+Comparison with `encoding/json` and `jsonparser`
+------------------------------------------------
+<a href="https://jsoniter.com/benchmark.html"><img src="http://jsoniter.com/benchmarks/go-reader.png" alt="benchmark"></a>
