@@ -1,8 +1,8 @@
 `import github.com/abrander/storm-jsoniter`
 ===========================================
 
-[jsoniter](https://github.com/json-iterator/go/) codec
-for [asdine/storm](https://github.com/asdine/storm).
+[jsoniter](https://jsoniter.com/) codec
+for [asdine/storm](https://github.com/asdine/storm) for more speed.
 
 Example of Usage
 ----------------
