@@ -17,9 +17,9 @@ import (
 
 func main() {
     db, _ := storm.Open(
-		"database.db",
+        "database.db",
         storm.Codec(jsoniter.Codec),
-	)
+    )
 
     // Do stuff.
 
